@@ -1,6 +1,6 @@
 {
-  "name": "@dollarshaveclub/cloudworker",
-  "version": "0.1.2",
+  "name": "@roverdotcom/cloudworker",
+  "version": "0.2.0",
   "description": "node.js runner for Cloudflare Workers",
   "main": "index.js",
   "types": "index.d.ts",
@@ -32,7 +32,7 @@
   ],
   "homepage": "https://github.com/dollarshaveclub/cloudworker#readme",
   "dependencies": {
-    "@dollarshaveclub/node-fetch": "^3.2.0",
+    "@roverdotcom/node-fetch": "https://github.com/roverdotcom/node-fetch",
     "web-streams-polyfill": "^2.0.3",
     "arraybuffer-equal": "^1.0.4",
     "atob": "^2.1.2",
